@@ -34,5 +34,7 @@ Raymon Anthony Doane, 11,606 votes, 3.1% of votes
 Diana DeGette won the election, got 272,892 votes, which is 73.8% of the total votes count.
 
 ##3.Election-Audit Summary: 
+
 ![summary](https://github.com/Sirius0531/Election_analysiss/blob/main/Resources/Result_Summary.PNG)
+
 This program can apply to all common elections and analysis the result. It gives the ability to get a quick view of all votes count, each area votes count, winner of elections, candidates vote count with a percentage of each subject. For example, if we get the data set to analyze the Mayor's election, we can easily change "county/counties" data to "city/cites". 
